@@ -1,0 +1,2 @@
+# almundo-platform-app
+mobile
